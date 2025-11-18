@@ -45,26 +45,3 @@ Minha experiência cobre todo o ciclo de desenvolvimento: no **Back-end**, const
   
   <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=wendelvx&show_icons=true&theme=tokyonight&locale=pt-br&hide=commits" 
-  />
-
-<img 
-      align="left" 
-      alt="Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelvx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-
-</p>
