@@ -57,7 +57,7 @@ Minha experiência cobre todo o ciclo de desenvolvimento: no **Back-end**, const
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=wendelvx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=wendelvx&show_icons=true&theme=tokyonight&locale=pt-br&hide=commits" 
   />
 
 <img 
