@@ -2,9 +2,10 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Me chamo Wendel. Sou um desenvolvedor **FullStack** focado em criar soluções completas e escaláveis.
+Olá! Me chamo Wendel.
 
-Minha experiência cobre todo o ciclo de desenvolvimento: no **Back-end**, construo APIs robustas e microsserviços utilizando **Go**, **Node.js**, **Laravel** e **Django**. No **Front-end**, crio interfaces modernas, responsivas e dinâmicas com **React**, **Vue** e **Tailwind CSS**. Tenho facilidade em aprender novas ferramentas e estou sempre buscando as melhores práticas de arquitetura e performance.
+Sou um desenvolvedor FullStack aficionado por tecnologia!
+Compilando o caos para dominar a máquina! 🤖
 
 ---
 
